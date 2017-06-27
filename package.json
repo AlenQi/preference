@@ -1,0 +1,19 @@
+{
+  "name": "preference",
+  "version": "1.0.0",
+  "description": "- https://github.com/Semantic-Org/Semantic-UI Semantic is a UI component framework based around useful principles from natural language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenQi/preference.git"
+  },
+  "author": "alenqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenQi/preference/issues"
+  },
+  "homepage": "https://github.com/AlenQi/preference#readme"
+}
