@@ -17,6 +17,13 @@
 - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
   https://github.com/sorrycc/awesome-javascript
 
+- JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations.
+  https://github.com/tweenjs/tween.js
+
+- Modern copy to clipboard. No Flash. Just 3kb gzipped
+  https://github.com/zenorocha/clipboard.js
+
+
 ## learn
 - Frontend Knowledge Structure
   https://github.com/JacksonTian/fks
@@ -27,3 +34,7 @@
 ## WORKFLOW
 - Gulp start guide
   https://github.com/nimojs/gulp-book
+
+## EDITOR
+- Beautification abstraction package for Atom editor  
+  https://github.com/Glavin001/atom-beautify
