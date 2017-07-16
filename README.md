@@ -3,6 +3,23 @@
 ## Catagory
 
 1. [Structure](#structure)
+2. [Package Managers](#package-managers)
+3. [Preprocessors](#preprocessors)
+4. [Frameworks](#frameworks)
+5. [Reset](#reset)
+6. [Effect](#effect)
+7. [Chart](#Chart)
+8. [Formatting](#formatting)
+9. [Tool](#tool)
+10. [Template](#template)
+11. [Power Point](#power-point)
+12. [Architecture](#architecture)
+13. [Code Normalize](#code-normalize)
+14. [Architecture](#architecture)
+15. [Interview](#interview)
+16. [Editor](#editor)
+17. [Node](#node)
+18. [Summary](#summary)
 
 ## Structure
 
@@ -128,7 +145,7 @@
   https://github.com/ionic-team/ionic
 
 
-## Reset and Normalize  
+## Reset  
 
 - `normalize.css`
 
@@ -299,7 +316,7 @@
   https://github.com/facebook/flux
 
 
-## Code Guide
+## Code Normalize
 
 - `Airbnb`
 
@@ -322,6 +339,8 @@
   Beautification abstraction package for Atom editor  
 
   https://github.com/Glavin001/atom-beautify
+
+  [Plugins Recommended](http://www.alenqi.site/2017/03/11/atom-edit/)
 
 
 ## Node
