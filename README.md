@@ -336,9 +336,9 @@
 ## Editor
 - `atom`
 
-  Beautification abstraction package for Atom editor  
+  Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
-  https://github.com/Glavin001/atom-beautify
+  https://github.com/atom/atom
 
   [Plugins Recommended](http://www.alenqi.site/2017/03/11/atom-edit/)
 
