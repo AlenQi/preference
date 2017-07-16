@@ -2,7 +2,7 @@
 
 ## Catagory
 
-1. [Structure](#Structure)
+1. [Structure](#structure)
 
 ## Structure
 
